@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MyApi
+build_property.ProjectDir = C:\Users\Gurumi\Desktop\Programer\DanielTseng\EnnoApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
