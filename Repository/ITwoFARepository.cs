@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyApi.Model;
+using System;
 using System.Collections.Generic;
 using System.Net.Mail;
 using System.Threading.Tasks;

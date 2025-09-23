@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace MyApi
+namespace MyApi.Model
 {
     public enum TokenTypeEnum
     {

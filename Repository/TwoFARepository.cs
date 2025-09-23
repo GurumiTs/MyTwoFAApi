@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using MyApi.Model;
 using System;
 using System.Collections.Generic;
 using System.Data;

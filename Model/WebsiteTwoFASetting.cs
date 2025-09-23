@@ -7,7 +7,7 @@ using System.Web;
 /// <summary>
 /// Summary description for WebsiteTwoFASetting
 /// </summary>
-namespace MyApi
+namespace MyApi.Model
 {
     public enum WebsiteNameEnum
     {
